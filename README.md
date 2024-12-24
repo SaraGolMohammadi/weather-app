@@ -7,6 +7,6 @@
 نمایش جزئیات مانند دما، فشار، سرعت باد و رطوبت.
 پیش‌بینی ساعتی و روزانه آب‌وهوا.
 طراحی مدرن و واکنش‌گرا برای تجربه کاربری بهتر.
-[Weather-app](index.html)
+[Weather-app]( https://saragolmohammadi.github.io/weather-app/)
 ![نمونه عکس](img/10d.png)
 
